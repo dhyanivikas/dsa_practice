@@ -19,7 +19,6 @@ public class SumMaxSubArray {
 			}
 
 		}
-
 		return longestLength;
 	}
 	
